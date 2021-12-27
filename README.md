@@ -1,6 +1,6 @@
-# www.vixs.dev <!-- omit in toc -->
+# www.gratr.dev <!-- omit in toc -->
 
-_The best tool to rate, review and select GitHub repositories._
+_GRater, the best tool to rate, review and select GitHub repositories._
 
 # Table of Content <!-- omit in toc -->
 

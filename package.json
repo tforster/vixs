@@ -1,7 +1,7 @@
 {
-  "name": "www.vixs.dev",
+  "name": "www.gratr.dev",
   "version": "0.1.0",
-  "description": "The best tool to rate, review and select GitHub repositories.",
+  "description": "GRatr, the best tool to rate, review and select GitHub repositories.",
   "scripts": {},
   "devDependencies": {
     "@babel/eslint-parser": "^7.16.5",
@@ -14,7 +14,7 @@
     "prettier": "^2.5.1"
   },
   "keywords": [
-    "vixs",
+    "gratr",
     "five nines",
     "github",
     "rate",
